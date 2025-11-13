@@ -9,3 +9,8 @@ functionToMain - https://github.com/Monkoost/Homework/blob/master/functionToMain
 1. g++ -c testFuncion.cpp functionToMain.cpp
 2. g++ -o programToNumber testFuncion.o functionToMain.o
 3. ./programToNumber
+
+
+Дз, (100 задач Leetcode)
+1.https://leetcode.com/problems/two-sum/description/  My ass is on fire ;
+2.https://leetcode.com/problems/palindrome-number/    easy +- ;
