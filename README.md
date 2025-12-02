@@ -15,5 +15,5 @@ number - https://github.com/Monkoost/Homework/blob/master/number.cpp - цифр�
 
 
 Дз, (100 задач Leetcode)
-1.https://leetcode.com/problems/two-sum/description/  My ass is on fire ;
+1.https://leetcode.com/problems/two-sum/description/  My ass in fire ;
 2.https://leetcode.com/problems/palindrome-number/    easy +- ;
