@@ -26,13 +26,16 @@ number - https://github.com/Monkoost/Homework/blob/master/number.cpp - цифр�
 Season 2
 hw Struct:
 
-[homeWork_2s_2_book](https://github.com/Monkoost/Homework/blob/master/homeWork_2s_2_book.cpp)
+[homeWork_2s_2_book](https://github.com/Monkoost/Homework/blob/master/homeWork_2s_2_book.cpp)<br/>
 [Task2Product](https://github.com/Monkoost/Homework/blob/master/Task2Product.cpp)<br/>
 [Task4Time](https://github.com/Monkoost/Homework/blob/master/Task4Time.cpp)<br/>
+[Task8PriceComparison](https://github.com/Monkoost/Homework/blob/master/Task8PriceComparison.cpp)<br/>
+[Task11ListOfStudents](https://github.com/Monkoost/Homework/blob/master/Task11ListOfStudentst.cpp)<br/
+[Task12Thebeststudent](https://github.com/Monkoost/Homework/blob/master/Task12Thebeststudent.cpp)<br/
+[Task16Studentwithdateofbirth](https://github.com/Monkoost/Homework/blob/master/Task16Studentwithdateofbirth.cpp)<br/>
+[Task20CalendarEvent](https://github.com/Monkoost/Homework/blob/master/Task20CalendarEvent.cpp)<br/
 
-[Task8PriceComparison](https://github.com/Monkoost/Homework/blob/master/Task8PriceComparison.cpp)<br/>;
-[Task11ListOfStudents](https://github.com/Monkoost/Homework/blob/master/Task11ListOfStudentst.cpp)<br/;
-[Task12Thebeststudent](https://github.com/Monkoost/Homework/blob/master/Task12Thebeststudent.cpp)<br/;
-[Task16Studentwithdateofbirth](https://github.com/Monkoost/Homework/blob/master/Task16Studentwithdateofbirth.cpp)<br/>;
-[Task20CalendarEvent](https://github.com/Monkoost/Homework/blob/master/Task20CalendarEvent.cpp)<br/;
+
+
+
 
