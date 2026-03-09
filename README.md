@@ -36,7 +36,7 @@ hw Struct:
 [Task20CalendarEvent](https://github.com/Monkoost/Homework/blob/master/Task20CalendarEvent.cpp)<br/>
 
 
-Tasks: Dynamic array
+Tasks: Dynamic array<br/>
 [pop_back](https://github.com/Monkoost/Homework/blob/master/pop_back)<br/>
 [clear](https://github.com/Monkoost/Homework/blob/master/clear)<br/>
 [is_empty](https://github.com/Monkoost/Homework/blob/master/is_empty)<br/>
