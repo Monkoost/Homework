@@ -36,6 +36,11 @@ hw Struct:
 [Task20CalendarEvent](https://github.com/Monkoost/Homework/blob/master/Task20CalendarEvent.cpp)<br/>
 
 
+Tasks: Dynamic array
+[]()<br/>
+
+
+
 
 
 
