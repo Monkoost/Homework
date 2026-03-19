@@ -37,14 +37,14 @@ hw Struct:
 
 
 Tasks: Dynamic array<br/>
-[pop_back](https://github.com/Monkoost/Homework/blob/master/pop_back)<br/>
-[clear](https://github.com/Monkoost/Homework/blob/master/clear)<br/>
-[is_empty](https://github.com/Monkoost/Homework/blob/master/is_empty)<br/>
-[backAndFront](https://github.com/Monkoost/Homework/blob/master/backAndFront)<br/>
-[insert](https://github.com/Monkoost/Homework/blob/master/insert)<br/>
-[eraseAndInsert](https://github.com/Monkoost/Homework/blob/master/eraseAndInsert)<br/>
-[reverse](https://github.com/Monkoost/Homework/blob/master/reverse)<br/>
-[unique](https://github.com/Monkoost/Homework/blob/master/unique)<br/>
-[char_vector](https://github.com/Monkoost/Homework/blob/master/char_vector)<br/>
-[sort1](https://github.com/Monkoost/Homework/blob/master/sort1)<br/>
+[pop_back](https://github.com/Monkoost/Homework/blob/master/pop_back.cpp)<br/>
+[clear](https://github.com/Monkoost/Homework/blob/master/clear.cpp)<br/>
+[is_empty](https://github.com/Monkoost/Homework/blob/master/is_empty.cpp)<br/>
+[backAndFront](https://github.com/Monkoost/Homework/blob/master/backAndFront.cpp)<br/>
+[insert](https://github.com/Monkoost/Homework/blob/master/insert.cpp)<br/>
+[eraseAndInsert](https://github.com/Monkoost/Homework/blob/master/eraseAndInsert.cpp)<br/>
+[reverse](https://github.com/Monkoost/Homework/blob/master/reverse.cpp)<br/>
+[unique](https://github.com/Monkoost/Homework/blob/master/unique.cpp)<br/>
+[char_vector](https://github.com/Monkoost/Homework/blob/master/char_vector.cpp)<br/>
+[sort1](https://github.com/Monkoost/Homework/blob/master/sort1.cpp)<br/>
 
