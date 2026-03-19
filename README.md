@@ -50,5 +50,5 @@ Tasks: Dynamic array<br/>
 
 
 Tasks: The basics of templates<br/>
-[klick]([https://github.com/Monkoost/Homework/blob/master/sort1.cpp](https://github.com/Monkoost/Homework/blob/master/image.png))<br/>
+[klick](https://github.com/Monkoost/Homework/blob/master/image.png)<br/>
 
