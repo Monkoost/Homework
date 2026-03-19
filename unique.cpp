@@ -66,10 +66,15 @@ struct int_vector {
     }
 
     void unique() {
-        for (int i = 0;i < size;i++) {
+        while (i <= size)
+        {
             if (data[i] == data[i + 1])
             {
                 erase(i);
+            }
+            else
+            {
+                i++;
             }
         }
     }
