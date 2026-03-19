@@ -48,3 +48,7 @@ Tasks: Dynamic array<br/>
 [char_vector](https://github.com/Monkoost/Homework/blob/master/char_vector.cpp)<br/>
 [sort1](https://github.com/Monkoost/Homework/blob/master/sort1.cpp)<br/>
 
+
+Tasks: The basics of templates<br/>
+[klick]([https://github.com/Monkoost/Homework/blob/master/sort1.cpp](https://github.com/Monkoost/Homework/blob/master/image.png))<br/>
+
