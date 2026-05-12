@@ -52,3 +52,16 @@ Tasks: Dynamic array<br/>
 Tasks: The basics of templates<br/>
 [klick](https://github.com/Monkoost/Homework/blob/master/image.png)<br/>
 
+Tasks: Recursion<br/>
+[Classical recursive problems](https://github.com/Monkoost/Homework/blob/master/Classical%20recursive%20problems.cpp)<br/>
+[Recursion with arrays](https://github.com/Monkoost/Homework/blob/master/Recursion%20with%20arrays.cpp)<br/>
+[Recursion](https://github.com/Monkoost/Homework/blob/master/Recursion.cpp)<br/>
+[Memoization](https://github.com/Monkoost/Homework/blob/master/Memoization.cpp)<br/>
+
+
+
+
+
+
+
+
